@@ -1,2 +1,2 @@
-# indtroduction
+# introduction
 application for WeHelp bootcamp
